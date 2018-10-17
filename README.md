@@ -1,2 +1,2 @@
-# clocklikeshop
-clocks
+# likeshop
+Like shop
